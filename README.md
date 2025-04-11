@@ -9,7 +9,7 @@ Each notebook includes data transformation, querying, performance optimization, 
 ### 📌 Disclaimer  
 These projects were completed as part of a Data Engineering course at UC Berkeley. 
 The project structure, datasets, and prompts were created by the course instructors. 
-I do not claim ownership over the original content — this repository is intended to showcase my individual work and learning outcomes.
+I do not claim ownership over the original content. This repository is intended to showcase my individual work and learning outcomes.
 
 ---
 
